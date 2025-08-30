@@ -44,7 +44,7 @@ I specialize in turning raw data into **actionable business insights** using **E
 ---
 
 ## 🛠️ Skills  
-- **Analytics:** Excel, SQL, Power BI **
+- **Analytics:** Excel, SQL, Power BI 
 - **Machine Learning (BA Level):** Logistic Regression, Decision Trees, Random Forest, K-Means  
 - **Business Strategy:** Market Research, SWOT, Customer Segmentation  
 
