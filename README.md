@@ -7,7 +7,7 @@ I specialize in turning raw data into **actionable business insights** using **E
 
 ## 💼 Business Analytics Projects  
 
-### 🔹 [Customer Churn Prediction (https://github.com/suryapraakash/customer-churn-excel-dashboard)  
+### 🔹 [Customer Churn Prediction] (https://github.com/suryapraakash/customer-churn-excel-dashboard)  
 - Built a **Logistic Regression model manually in Excel** to predict churn.  
 - Performed **data cleaning, feature analysis, and manual calculation of odds & probability**.  
 - Key finding: AS recall is 81% it strongly spot the week impression customers.  
