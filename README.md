@@ -14,13 +14,6 @@ I specialize in turning raw data into **actionable business insights** using **E
 
 ---
 
-### 🔹 [Customer Segmentation (Excel)](https://github.com/suryapraakash/customer-segmentation-Dashboard)  
-- Applied **K-Means clustering** to segment customers based on demographics & spending.  
-- Identified **3 customer groups**: Value Shoppers, Premium Buyers, and Occasional Users.  
-- Insights used to **improve targeted marketing campaigns**.  
-
----
-
 ### 🔹 [PhonePe Pulse Power BI Dashboard](https://github.com/suryapraakash/Phone-Pulse-Dashboard)  
 - Created an **interactive dashboard** visualizing PhonePe’s transaction data (Geo + Trends).  
 - Analyzed **state-wise adoption trends** and **year-on-year growth**.  
