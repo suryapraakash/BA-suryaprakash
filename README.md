@@ -45,3 +45,5 @@ I specialize in turning raw data into **actionable business insights** using **E
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/)
+
+Email:suryapraakash8@gmail.com
