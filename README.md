@@ -20,11 +20,10 @@ I specialize in turning raw data into **actionable business insights** using **E
 - Provided insights on **digital payment penetration in India**.  
 
 ---
-
-### 🔹 [Netflix Content Power BI Dashboard](https://github.com/suryapraakash/NETFLIX-POWERBI-DASHBOARD)  
-- Analyzed **Netflix’s global content library**.  
-- Dashboard covered **genre trends, release years, ratings, and country distribution**.  
-- Helped identify **content expansion opportunities**.  
+## 💼 HR Attrition Dashboard (Tableau)
+- Analyzed Kaggle HR data to identify key factors driving employee turnover and department-wise attrition.  
+- Designed an interactive Tableau dashboard with KPIs and visuals like donut, lollipop, and histogram charts for deep workforce insights.  
+- Delivered data-driven findings highlighting high attrition among R&D and Sales teams linked to age and job satisfaction.    
 
 ---
 
