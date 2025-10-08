@@ -20,7 +20,7 @@ I specialize in turning raw data into **actionable business insights** using **E
 - Provided insights on **digital payment penetration in India**.  
 
 ---
-## 💼 HR Attrition Dashboard (Tableau)
+## 💼 [Hr Attrition Dashboard](https://github.com/suryapraakash/HR-ATTRRITION/blob/main/hr%20attrition.twbx)
 - Analyzed Kaggle HR data to identify key factors driving employee turnover and department-wise attrition.  
 - Designed an interactive Tableau dashboard with KPIs and visuals like donut, lollipop, and histogram charts for deep workforce insights.  
 - Delivered data-driven findings highlighting high attrition among R&D and Sales teams linked to age and job satisfaction.    
